@@ -3,10 +3,10 @@ title: Daphne Kontaxi
 subtitle: Portfolio
 email: daphne_kon@yahoo.com
 description: ""
-baseurl: "dkonn.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: dkonn.github.io
 author: Daphne Kontaxi
-street_address: THELW SEX
+street_address: ""
 city: Athens
 state: 
 zip_code: 118 23
