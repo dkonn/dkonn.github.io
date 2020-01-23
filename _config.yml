@@ -3,7 +3,7 @@ title: Daphne Kontaxi
 subtitle: Portfolio
 email: daphne_kon@yahoo.com
 description: ""
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: dkonn.github.io
 author: Daphne Kontaxi
 street_address: ""
