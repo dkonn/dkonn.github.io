@@ -2,21 +2,21 @@
 layout: post
 title: Digital Representation
 description: ""
-image: assets/images/1.jpeg
+image: assets/images/1.jpg
 nav-menu: true
 ---
 
 <a>
-			<img src="assets/images/2.jpeg" alt="" data-position="center center" />
+			<img src="assets/images/2.jpg" alt="" data-position="center center" />
 </a>
 <a>
-			<img src="assets/images/3.jpeg" alt="" data-position="center center" />
+			<img src="assets/images/3.jpg" alt="" data-position="center center" />
 </a>
 <a>
-			<img src="assets/images/4.jpeg" alt="" data-position="center center" />
+			<img src="assets/images/4.jpg" alt="" data-position="center center" />
 </a>
 <a>
-			<img src="assets/images/8.jpeg" alt="" data-position="center center" />
+			<img src="assets/images/8.jpg" alt="" data-position="center center" />
 </a>
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
 
