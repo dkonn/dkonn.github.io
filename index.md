@@ -8,4 +8,13 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Σύντομο βιογραφικό 
+Ονομάζομαι Κονταξη Δαφνη, είμαι γεννημένη στις 21 Απριλίου του 1997 και είμαι 22 χρόνων.
+Γεννήθηκα στην Ελλάδα και μεγάλωσα στην Αθήνα. Ήμουν  μαθήτρια και απόφοιτη πλέον του Αρσακείου
+σχολείου ψυχικού από το 2003 μέχρι το 2015. Στην συνέχεια εισήχθηκα στο τμήμα εσωτερικής αρχιτεκτονικής
+στο πανεπιστήμιο της δυτικής αττικής και τα τελευταία 5 χρόνια φοιτώ εκει. 
+Δούλευα από το 2017 μέχρι και το 2019 ως βοηθός αρχιτέκτονα σε τεχνικό αρχιτεκτονικό γραφείο.
+Πέρα από κάποια βασικά  προγράμματα στον υπολογιστή όπως world, excel, power point, έχω πολύ καλές
+γνώσεις και σε αλλά προγράμματα, κυρίως σχεδιαστικά, όπως archicad, autocad, photoshop και sketch up.
+Από ξένες γλώσσες γνωρίζω αγγλικά σε καλό επίπεδο και γαλλικά σε μέτριο επίπεδο. Τέλος ασχολούμαι
+αρκετά με την επεξεργασία φωτογραφίας, το γραμμικό αλλά και το ελεύθερο σχέδιο.
