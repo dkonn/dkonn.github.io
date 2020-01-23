@@ -2,7 +2,7 @@
 layout: post
 title: Public Design
 description: ""
-image: assets/images/image9.jpg
+image: assets/images/image9.jpeg
 nav-menu: true
 ---
 
