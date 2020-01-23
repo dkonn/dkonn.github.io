@@ -1,11 +1,11 @@
 # site settings
-title: Forty
+title: Daphne Kontaxi
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: daphne_kon@yahoo.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: dkonn.github.io
-author:
+author: Daphne Kontaxi
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
