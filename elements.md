@@ -7,9 +7,6 @@ nav-menu: true
 ---
 
 <a>
-			<img src="assets/images/ex1.jpeg" alt="" data-position="center center" />
-</a>
-<a>
 			<img src="assets/images/cdlnfk.jpeg" alt="" data-position="center center" />
 </a>
 <a>
