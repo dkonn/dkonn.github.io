@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>libero</h2>
 		</header>
 		<p>Σύντομο βιογραφικό 
   Ονομάζομαι Κονταξη Δαφνη, είμαι γεννημένη στις 21 Απριλίου του 1997 και είμαι 22 χρόνων.
