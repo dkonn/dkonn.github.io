@@ -3,13 +3,13 @@ title: Daphne Kontaxi
 subtitle: Portfolio
 email: daphne_kon@yahoo.com
 description: ""
-baseurl: #"dkonn.github.io/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "dkonn.github.io/" # the subpath of your site, e.g. /blog
 url: dkonn.github.io
 author: Daphne Kontaxi
-street_address: Eleftheriou Venizelou 30
-city: Pefki
+street_address: THELW SEX
+city: Athens
 state: 
-zip_code: 151 21
+zip_code: 118 23
 country: Greece
 phone: (+30) 6986673539
 
