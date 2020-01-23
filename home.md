@@ -2,7 +2,7 @@
 layout: post
 title: Digital Representation
 description: ""
-image: assets/images/1.jpg
+image: assets/images/1.jpeg
 nav-menu: true
 ---
 
