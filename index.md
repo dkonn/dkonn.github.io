@@ -8,13 +8,4 @@ author: null
 show_tile: true
 ---
 
-Σύντομο βιογραφικό 
-Ονομάζομαι Κονταξη Δαφνη, είμαι γεννημένη στις 21 Απριλίου του 1997 και είμαι 22 χρόνων.
-Γεννήθηκα στην Ελλάδα και μεγάλωσα στην Αθήνα. Ήμουν  μαθήτρια και απόφοιτη πλέον του Αρσακείου
-σχολείου ψυχικού από το 2003 μέχρι το 2015. Στην συνέχεια εισήχθηκα στο τμήμα εσωτερικής αρχιτεκτονικής
-στο πανεπιστήμιο της δυτικής αττικής και τα τελευταία 5 χρόνια φοιτώ εκει. 
-Δούλευα από το 2017 μέχρι και το 2019 ως βοηθός αρχιτέκτονα σε τεχνικό αρχιτεκτονικό γραφείο.
-Πέρα από κάποια βασικά  προγράμματα στον υπολογιστή όπως world, excel, power point, έχω πολύ καλές
-γνώσεις και σε αλλά προγράμματα, κυρίως σχεδιαστικά, όπως archicad, autocad, photoshop και sketch up.
-Από ξένες γλώσσες γνωρίζω αγγλικά σε καλό επίπεδο και γαλλικά σε μέτριο επίπεδο. Τέλος ασχολούμαι
-αρκετά με την επεξεργασία φωτογραφίας, το γραμμικό αλλά και το ελεύθερο σχέδιο.
+My name is Daphne Kontaxi, born April 21 in 1997 and I'm 22 years old. I am from Greece and raised in Athens. I graduated from the Arsakio School in 2015. Now I am at the Department of Interior Architecture at the University of West Attica. From 2018 to 2019 I was working as an assistant architect in a technical architectural office. In addition to some basic computer programs such as world, excel, power point, I have very good knowledge in other programs, especially design such as archicad, autocad, photoshop and sketch up. I speak English at a good level and French at a moderate level. Lastly, I do a lot of photo editing, line art and free drawing.
