@@ -19,6 +19,6 @@ nav-menu: true
 			<img src="assets/images/image14.jpeg" alt="" data-position="center center" />
 </a>
 
-* Location: Technopolis Gazi Athens Greece
+* Location: Athens Greece
 * Project for my university (uniwa – interior design)
 * Teamwork (Kouroupakis George, Kalofonou Iakinthi)
